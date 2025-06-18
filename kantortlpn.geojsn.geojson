@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "kantortlpn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Telkom Lampung", "FCODE": null, "REMARK": "Kantor Telepon", "SRS_ID": null, "LCODE": "HC0120", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.269233485000086, -5.444685142999958, 68.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Telkom Bandarlampung", "FCODE": null, "REMARK": "Kantor Telepon", "SRS_ID": null, "LCODE": "HC0120", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.24749113300004, -5.418642551999937, 396.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Telkom Langkapura", "FCODE": null, "REMARK": "Kantor Telepon", "SRS_ID": null, "LCODE": "HC0120", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.212194367000052, -5.396878425999944, 842.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Telkom Bandarlampung", "FCODE": null, "REMARK": "Kantor Telepon", "SRS_ID": null, "LCODE": "HC0120", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.256179183000086, -5.410911533999979, 388.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Telkom Lampung", "FCODE": null, "REMARK": "Kantor Telepon", "SRS_ID": null, "LCODE": "HC0120", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.261099990000048, -5.41907737799994, 353.0 ] } }
+]
+}

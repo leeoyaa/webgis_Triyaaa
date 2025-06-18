@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "kantorpos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Telukbetung Selatan", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.268591051000044, -5.442898518999925, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Tanjungkarang Barat", "FCODE": null, "JNKPOS": 1, "REMARK": "Kantor Pos Besar", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.242994, -5.398779, 162.153600000005099 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Hanura", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.236957437000058, -5.531817371999978, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Kemiling", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.209735709000086, -5.389860676999945, -567.282999999995809 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Pahoman", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.272071029000074, -5.42464922299996, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Wayhalim", "FCODE": null, "JNKPOS": 1, "REMARK": "Kantor Pos Besar", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.27664604000006, -5.383744263999972, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Plaza Pos Indonesia Bandarlampung", "FCODE": null, "JNKPOS": 1, "REMARK": "Kantor Pos Besar", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.257699865000063, -5.409192234999978, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Panjang", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.324391693000052, -5.479729693999957, 14.935200000007171 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Perwata", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.255685134000032, -5.451920559999962, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Unit Unila", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.243134313000041, -5.367511158999946, 134.721999999994296 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Labuhanratu", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.252325463000034, -5.378959839999936, 0.729699999996228 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor Pos Sukaraja", "FCODE": null, "JNKPOS": 2, "REMARK": "Kantor Pos Pembantu", "SRS_ID": null, "LCODE": "HC0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.286627706000047, -5.442640633999929, 0.0 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "kantorpln",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor PLN Tanjungkarang", "FCODE": null, "REMARK": "Kantor PLN", "SRS_ID": null, "LCODE": "HB0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.258322927000052, -5.424029020999967, 0.0 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor PLN Sektor Pembangkit Bandarlampung", "FCODE": null, "REMARK": "Kantor PLN", "SRS_ID": null, "LCODE": "HB0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.220559765000075, -5.365981826999928, 135.331000000005588 ] } },
+{ "type": "Feature", "properties": { "NAMOBJ": "Kantor PLN Distribusi Lampung", "FCODE": null, "REMARK": "Kantor PLN", "SRS_ID": null, "LCODE": "HB0080", "METADATA": null }, "geometry": { "type": "Point", "coordinates": [ 105.227689708000071, -5.364432269999952, 127.406000000002678 ] } }
+]
+}
